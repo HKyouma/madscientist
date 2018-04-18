@@ -15,14 +15,14 @@
         <entry file="file://$PROJECT_DIR$/WpfApp1/MainWindow.xaml.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="29" column="58" lean-forward="false" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+              <caret line="29" column="70" lean-forward="false" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
               <folding>
-                <marker date="1524025876718" expanded="false" signature="6:381" ph="..." />
-                <marker date="1524025876718" expanded="true" signature="400:891" ph="{...}" />
-                <marker date="1524025876718" expanded="true" signature="407:485" ph="/// Interaction logic for MainWindow.xaml ... " />
-                <marker date="1524025876718" expanded="true" signature="530:889" ph="{...}" />
-                <marker date="1524025876718" expanded="true" signature="564:656" ph="{...}" />
-                <marker date="1524025876718" expanded="true" signature="722:883" ph="{...}" />
+                <marker date="1524028555802" expanded="false" signature="6:381" ph="..." />
+                <marker date="1524028555802" expanded="true" signature="400:883" ph="{...}" />
+                <marker date="1524028555802" expanded="true" signature="407:485" ph="/// Interaction logic for MainWindow.xaml ... " />
+                <marker date="1524028555802" expanded="true" signature="530:881" ph="{...}" />
+                <marker date="1524028555802" expanded="true" signature="564:656" ph="{...}" />
+                <marker date="1524028555802" expanded="true" signature="722:875" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -156,12 +156,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524021612670</updated>
       <workItem from="1524021624555" duration="1287000" />
-      <workItem from="1524025646758" duration="771000" />
+      <workItem from="1524025646758" duration="797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2058000" />
+    <option name="totallyTimeSpent" value="2084000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -216,12 +216,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1524025876718" expanded="false" signature="6:381" ph="..." />
-            <marker date="1524025876718" expanded="true" signature="400:891" ph="{...}" />
-            <marker date="1524025876718" expanded="true" signature="407:485" ph="/// Interaction logic for MainWindow.xaml ... " />
-            <marker date="1524025876718" expanded="true" signature="530:889" ph="{...}" />
-            <marker date="1524025876718" expanded="true" signature="564:656" ph="{...}" />
-            <marker date="1524025876718" expanded="true" signature="722:883" ph="{...}" />
+            <marker date="1524028555802" expanded="false" signature="6:381" ph="..." />
+            <marker date="1524028555802" expanded="true" signature="400:883" ph="{...}" />
+            <marker date="1524028555802" expanded="true" signature="407:485" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1524028555802" expanded="true" signature="530:881" ph="{...}" />
+            <marker date="1524028555802" expanded="true" signature="564:656" ph="{...}" />
+            <marker date="1524028555802" expanded="true" signature="722:875" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -242,14 +242,14 @@
     <entry file="file://$PROJECT_DIR$/WpfApp1/MainWindow.xaml.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="29" column="58" lean-forward="false" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <caret line="29" column="70" lean-forward="false" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
           <folding>
-            <marker date="1524025876718" expanded="false" signature="6:381" ph="..." />
-            <marker date="1524025876718" expanded="true" signature="400:891" ph="{...}" />
-            <marker date="1524025876718" expanded="true" signature="407:485" ph="/// Interaction logic for MainWindow.xaml ... " />
-            <marker date="1524025876718" expanded="true" signature="530:889" ph="{...}" />
-            <marker date="1524025876718" expanded="true" signature="564:656" ph="{...}" />
-            <marker date="1524025876718" expanded="true" signature="722:883" ph="{...}" />
+            <marker date="1524028555802" expanded="false" signature="6:381" ph="..." />
+            <marker date="1524028555802" expanded="true" signature="400:883" ph="{...}" />
+            <marker date="1524028555802" expanded="true" signature="407:485" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1524028555802" expanded="true" signature="530:881" ph="{...}" />
+            <marker date="1524028555802" expanded="true" signature="564:656" ph="{...}" />
+            <marker date="1524028555802" expanded="true" signature="722:875" ph="{...}" />
           </folding>
         </state>
       </provider>

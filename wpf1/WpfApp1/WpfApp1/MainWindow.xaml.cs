@@ -27,7 +27,7 @@ namespace WpfApp1
         }
         private void btn1_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show(" Chuong Branch ... ?", "Hỏi", MessageBoxButton.YesNo, MessageBoxImage.Question);
+            MessageBox.Show(" Chương ngáy to vl ... tao thu âm lại rồi ?", "Hỏi", MessageBoxButton.YesNo, MessageBoxImage.Question);
         }
     }
 }
