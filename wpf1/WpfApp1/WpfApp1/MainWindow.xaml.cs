@@ -27,7 +27,7 @@ namespace WpfApp1
         }
         private void btn1_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Do you want to close this window?", "Confirmation", MessageBoxButton.YesNo, MessageBoxImage.Question);
+            MessageBox.Show(" cososaaksldfjalskdjfalkjs \nHung Branch ... không?", "Hỏi", MessageBoxButton.YesNo, MessageBoxImage.Question);
         }
     }
 }

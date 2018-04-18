@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54b98bbc-e741-4e29-a2e7-0963bc125868" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MainWindow.xaml.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WpfApp1/MainWindow.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="29" column="58" lean-forward="false" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+              <folding>
+                <marker date="1524025876718" expanded="false" signature="6:381" ph="..." />
+                <marker date="1524025876718" expanded="true" signature="400:891" ph="{...}" />
+                <marker date="1524025876718" expanded="true" signature="407:485" ph="/// Interaction logic for MainWindow.xaml ... " />
+                <marker date="1524025876718" expanded="true" signature="530:889" ph="{...}" />
+                <marker date="1524025876718" expanded="true" signature="564:656" ph="{...}" />
+                <marker date="1524025876718" expanded="true" signature="722:883" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.xaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WpfApp1/MainWindow.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+              <folding>
+                <marker date="1524020631185" expanded="true" signature="0:1051" ph="&lt;&lt;Grid RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;        &lt;Grid.RenderTransform&gt;&#10;            &lt;TransformGroup&gt;&#10;                &lt;ScaleTransform/&gt;&#10;                &lt;SkewTransform/&gt;&#10;                &lt;RotateTransform Angle=&quot;0.681&quot;/&gt;&#10;                &lt;TranslateTransform/&gt;&#10;            &lt;/TransformGroup&gt;&#10;        &lt;/Grid.RenderTransform&gt;&#10;        &lt;Button x:Name=&quot;btn&quot; Content=&quot;shit&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;254,155,0,0&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;118&quot; Height=&quot;34&quot;/&gt;&#10;        &lt;ComboBox HorizontalAlignment=&quot;Left&quot; Margin=&quot;458,198,0,0&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;131&quot; Height=&quot;65&quot;/&gt;&#10;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1524020631185" expanded="true" signature="456:1041" ph="&lt;&lt;Grid.RenderTransform&gt;&#10;            &lt;TransformGroup&gt;&#10;                &lt;ScaleTransform/&gt;&#10;                &lt;SkewTransform/&gt;&#10;                &lt;RotateTransform Angle=&quot;0.681&quot;/&gt;&#10;                &lt;TranslateTransform/&gt;&#10;            &lt;/TransformGroup&gt;&#10;        &lt;/Grid.RenderTransform&gt; &lt;Button x:Name=&quot;btn&quot; Content=&quot;shit&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;254,155,0,0&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;118&quot; Height=&quot;34&quot;/&gt; &lt;ComboBox HorizontalAlignment=&quot;Left&quot; Margin=&quot;458,198,0,0&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;131&quot; Height=&quot;65&quot;/&gt;.../&gt;" />
+                <marker date="1524020631185" expanded="true" signature="503:770" ph="&lt;&lt;TransformGroup&gt;&#10;                &lt;ScaleTransform/&gt;&#10;                &lt;SkewTransform/&gt;&#10;                &lt;RotateTransform Angle=&quot;0.681&quot;/&gt;&#10;                &lt;TranslateTransform/&gt;&#10;            &lt;/TransformGroup&gt;.../&gt;" />
+                <marker date="1524020631185" expanded="true" signature="538:738" ph="&lt;&lt;ScaleTransform/&gt; &lt;SkewTransform/&gt; &lt;RotateTransform Angle=&quot;0.681&quot;/&gt; &lt;TranslateTransform/&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WpfApp1/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApp1/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WpfApp1/MainWindow.xaml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="WpfApp1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="WpfApp1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WpfApp1" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="WpfApp1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WpfApp1" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MainWindow.xaml" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WpfApp1/bin/Debug/WpfApp1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WpfApp1/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WpfApp1/WpfApp1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54b98bbc-e741-4e29-a2e7-0963bc125868" name="Default" comment="" />
+      <created>1524021612670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524021612670</updated>
+      <workItem from="1524021624555" duration="1287000" />
+      <workItem from="1524025646758" duration="230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1517000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WpfApp1/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524025876718" expanded="false" signature="6:381" ph="..." />
+            <marker date="1524025876718" expanded="true" signature="400:891" ph="{...}" />
+            <marker date="1524025876718" expanded="true" signature="407:485" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1524025876718" expanded="true" signature="530:889" ph="{...}" />
+            <marker date="1524025876718" expanded="true" signature="564:656" ph="{...}" />
+            <marker date="1524025876718" expanded="true" signature="722:883" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WpfApp1/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding>
+            <marker date="1524020631185" expanded="true" signature="0:1051" ph="&lt;&lt;Grid RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;        &lt;Grid.RenderTransform&gt;&#10;            &lt;TransformGroup&gt;&#10;                &lt;ScaleTransform/&gt;&#10;                &lt;SkewTransform/&gt;&#10;                &lt;RotateTransform Angle=&quot;0.681&quot;/&gt;&#10;                &lt;TranslateTransform/&gt;&#10;            &lt;/TransformGroup&gt;&#10;        &lt;/Grid.RenderTransform&gt;&#10;        &lt;Button x:Name=&quot;btn&quot; Content=&quot;shit&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;254,155,0,0&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;118&quot; Height=&quot;34&quot;/&gt;&#10;        &lt;ComboBox HorizontalAlignment=&quot;Left&quot; Margin=&quot;458,198,0,0&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;131&quot; Height=&quot;65&quot;/&gt;&#10;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1524020631185" expanded="true" signature="456:1041" ph="&lt;&lt;Grid.RenderTransform&gt;&#10;            &lt;TransformGroup&gt;&#10;                &lt;ScaleTransform/&gt;&#10;                &lt;SkewTransform/&gt;&#10;                &lt;RotateTransform Angle=&quot;0.681&quot;/&gt;&#10;                &lt;TranslateTransform/&gt;&#10;            &lt;/TransformGroup&gt;&#10;        &lt;/Grid.RenderTransform&gt; &lt;Button x:Name=&quot;btn&quot; Content=&quot;shit&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;254,155,0,0&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;118&quot; Height=&quot;34&quot;/&gt; &lt;ComboBox HorizontalAlignment=&quot;Left&quot; Margin=&quot;458,198,0,0&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;131&quot; Height=&quot;65&quot;/&gt;.../&gt;" />
+            <marker date="1524020631185" expanded="true" signature="503:770" ph="&lt;&lt;TransformGroup&gt;&#10;                &lt;ScaleTransform/&gt;&#10;                &lt;SkewTransform/&gt;&#10;                &lt;RotateTransform Angle=&quot;0.681&quot;/&gt;&#10;                &lt;TranslateTransform/&gt;&#10;            &lt;/TransformGroup&gt;.../&gt;" />
+            <marker date="1524020631185" expanded="true" signature="538:738" ph="&lt;&lt;ScaleTransform/&gt; &lt;SkewTransform/&gt; &lt;RotateTransform Angle=&quot;0.681&quot;/&gt; &lt;TranslateTransform/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WpfApp1/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="29" column="58" lean-forward="false" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <folding>
+            <marker date="1524025876718" expanded="false" signature="6:381" ph="..." />
+            <marker date="1524025876718" expanded="true" signature="400:891" ph="{...}" />
+            <marker date="1524025876718" expanded="true" signature="407:485" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1524025876718" expanded="true" signature="530:889" ph="{...}" />
+            <marker date="1524025876718" expanded="true" signature="564:656" ph="{...}" />
+            <marker date="1524025876718" expanded="true" signature="722:883" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
